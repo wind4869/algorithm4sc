@@ -1,0 +1,13 @@
+1|B|I M
+2|B F D|I J
+3|G|N
+4|D F|J B
+5|A E|B C D
+6|B|H
+7|C D|G E
+8|D|F L I J
+9|H G|M
+10|G E F L|N
+11|M N|K
+12|E|H
+13|L M|O
